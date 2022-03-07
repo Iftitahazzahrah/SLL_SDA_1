@@ -1,5 +1,10 @@
 # SLL_SDA_1
 
-//NAMA : Iftitah Azzahrah Lego Ningtiyas
-//NPM : G1A021014
-//KELAS : INFORMATIKA B
+
+Tugas 3 SDA
+
+Nama : Iftitah Azzahrah Lego Ningtiyas
+
+NPM : G1A021014
+
+Kelas : informatika B 21
